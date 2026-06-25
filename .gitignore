@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / local env
+.env
+*.key
+
+# Generated reports
+kb-health-report.md
+report.md
+
+# Editor / agent
+.claude/
+.idea/
+.vscode/
+.DS_Store
